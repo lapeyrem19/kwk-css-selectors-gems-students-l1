@@ -21,10 +21,7 @@
   top: 315px;
   left: 275px;
 }
-
-<img class="yellow_diamond" src="images/yellow-diamond-1.png" alt="yellow diamond">
-
-
+#diamond
 <img class="yellow_diamond" src="images/yellow-diamond-1.png" alt="yellow diamond"> {
   position: absolute;
   z-index: 4;
