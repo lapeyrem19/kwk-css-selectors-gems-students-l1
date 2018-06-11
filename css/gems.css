@@ -1,6 +1,6 @@
 <img id="ruby" src="images/ruby-gem.png" alt="Ruby">
-#ruby
-#id  {
+
+ {
   position: absolute;
   z-index: 1;
   top: 315px;
@@ -8,8 +8,7 @@
 }
 
 <img class="emerald" src="images/emerald-gem.png" alt="emerald">
-#.emerald
-#id {
+{
   position: absolute;
   z-index: 2;
   top: 350px;
@@ -27,7 +26,7 @@
 
 /* Select the image with the class "yellow_diamond" */
 
-/*selector for yellow diamond goes here */ {
+<img class="yellow_diamond" src="images/yellow-diamond-1.png" alt="yellow diamond"> {
   position: absolute;
   z-index: 4;
   top: 325px;
