@@ -7,8 +7,8 @@ id="ruby"
   left: 175px;
 }
 
-id="emerald"
-#emerald
+id=".emerald"
+#.emerald
 #id {
   position: absolute;
   z-index: 2;
