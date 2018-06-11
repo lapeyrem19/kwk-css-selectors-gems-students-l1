@@ -1,6 +1,4 @@
-<img id="ruby" src="images/ruby-gem.png" alt="Ruby">
 #ruby
-#id
  {
   position: absolute;
   z-index: 1;
@@ -8,9 +6,7 @@
   left: 175px;
 }
 
-<img class="emerald" src="images/emerald-gem.png" alt="emerald">
-#.emerald
-#id
+.emerald
 {
   position: absolute;
   z-index: 2;
