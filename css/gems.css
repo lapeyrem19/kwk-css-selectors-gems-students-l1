@@ -7,7 +7,7 @@
   left: 175px;
 }
 
-id=".emerald"
+<img class="emerald" src="images/emerald-gem.png" alt="emerald">
 #.emerald
 #id {
   position: absolute;
