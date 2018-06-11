@@ -7,9 +7,9 @@ id="ruby"
   left: 175px;
 }
 
-/* Select the image with class of emerald */
-
-/*selector for emerald goes here */  {
+id="emerald"
+#emerald
+#id {
   position: absolute;
   z-index: 2;
   top: 350px;
