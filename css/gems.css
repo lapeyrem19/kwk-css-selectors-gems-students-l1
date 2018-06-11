@@ -13,10 +13,9 @@
   top: 350px;
   left: 369px;
 }
-#sand
-<img src="images/sapphire-gem.png" alt="Sapphire">
 
-  <img src="images/sapphire-gem.png" alt="Sapphire"> {
+
+#sand
   position: absolute;
   z-index: 5;
   top: 315px;
