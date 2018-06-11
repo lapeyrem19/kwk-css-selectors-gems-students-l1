@@ -27,7 +27,10 @@
   left: 200px;
 }
 
-#sand img
+<div id="sand">
+   <img src="images/sapphire-gem.png" alt="Sapphire">
+ </div>
+
 {
   position: absolute;
   z-index: 3;
