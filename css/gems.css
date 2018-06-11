@@ -1,6 +1,6 @@
 id="ruby"
 
-/*selector for ruby goes here */  {
+#id  {
   position: absolute;
   z-index: 1;
   top: 315px;
