@@ -14,8 +14,8 @@
   left: 369px;
 }
 .yellow_diamond
-#sand
-  { 
+'#sand img'
+  {
     position: absolute;
   z-index: 5;
   top: 315px;
