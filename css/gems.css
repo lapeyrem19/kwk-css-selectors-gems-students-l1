@@ -9,8 +9,9 @@
 }
 
 <img class="emerald" src="images/emerald-gem.png" alt="emerald">
-#emerald 
-#id {
+#emerald
+#id
+{
   position: absolute;
   z-index: 2;
   top: 350px;
