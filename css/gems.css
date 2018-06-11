@@ -38,7 +38,8 @@
 }
 
 <img id="diamond" src="images/diamond-gem.png" alt="Diamond">
-#diamond {
+#diamond
+#id {
   position: absolute;
   z-index: 3;
   top: 300px;
