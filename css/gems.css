@@ -14,7 +14,6 @@
   left: 369px;
 }
 #yellow_diamond
-#sand
   position: absolute;
   z-index: 5;
   top: 315px;
@@ -28,9 +27,8 @@
   left: 200px;
 }
 
-<img id="diamond" src="images/diamond-gem.png" alt="Diamond">
-#diamond
-#id {
+#sand img
+{
   position: absolute;
   z-index: 3;
   top: 300px;
